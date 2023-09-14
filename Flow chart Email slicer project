@@ -1,0 +1,31 @@
+Start
+
+Input: User's Email Address
+
+↓
+
+Check for Leading/Trailing Spaces
+Is there any leading/trailing space?
+  |
+  No
+  |
+  ↓
+  
+Extract Username and Domain
+Use string indexing or partition method to split email into username and domain
+
+↓
+
+Format Output
+Create a formatted string with username and domain information
+
+↓
+
+Display Result
+Show the formatted output message to the user
+
+↓
+
+End
+
+
